@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\DB;
-
+//Nikhil suryawanshi develop branch
 class AuthController extends Controller
 {
    public function login(Request $request)
